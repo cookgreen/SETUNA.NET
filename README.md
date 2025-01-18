@@ -1,24 +1,28 @@
-# 免责声明
-- [官方网站](http://www.clearunit.com/clearup/setuna2)（地址已挂）
-- 官方已不再维护该软件，本人基于高分屏截图不全原因，优化并维护该软件，如有侵权请联系删除！
-
----
+# SETUNA
 
 ## 介绍
 A best screenshot small tool (support high dpi screenshots) 
 
 一款好用的截图小工具（支持高分屏截图）
 
----
-
-![效果图1](壁纸示例图/示例1.png)
-![效果图2](壁纸示例图/示例2.png)
-![效果图3](壁纸示例图/示例3.png)
+<details>
+ <summary>Screenshots</summary>
+ <img src="壁纸示例图/示例1.png" />
+ <img src="壁纸示例图/示例2.png" />
+ <img src="壁纸示例图/示例3.png" />
+</details>
 
 ---
 
 ## 版本说明
-- **SETUNA 3.x 版本的运行要求**（持续更新）([最新版 3.x 下载链接](https://github.com/tylearymf/SETUNA2/releases))
+- **SETUNA.NET 版本的运行要求**（持续更新）([最新版 下载链接](https://github.com/cookgreen/SETUNA.NET/releases))
+  
+  - Windows 10 14393 及以上
+  
+    - ###### 查看Win10系统版本：设置 -> 系统 -> 关于 -> Windows 规格详情页里的 操作系统版本
+  
+  - 安装 .Net 6 组件
+- **SETUNA 3.x 版本的运行要求**（停止维护）([最新版 3.x 下载链接](https://github.com/tylearymf/SETUNA2/releases))
   
   - Windows 10 14393 及以上
   
@@ -75,14 +79,15 @@ A best screenshot small tool (support high dpi screenshots)
 ---
 
 ## 目前已知问题
-- 前往 [Projects](https://github.com/tylearymf/SETUNA2/projects/1) 标签查看
+- 前往 [Issues](https://github.com/tylearymf/SETUNA2/issues) 标签查看
 
 ---
 
 ## 后续要加的功能
-- 前往 [Projects](https://github.com/tylearymf/SETUNA2/projects/1) 标签查看
+- 前往 [Issues](https://github.com/tylearymf/SETUNA2/issues) 标签查看
 
 ---
 
 ## 引用
 - [JosePineiro/WebP-wrapper](https://github.com/JosePineiro/WebP-wrapper)
+- [tylearymf/SETUNA2](https://github.com/tylearymf/SETUNA2)
